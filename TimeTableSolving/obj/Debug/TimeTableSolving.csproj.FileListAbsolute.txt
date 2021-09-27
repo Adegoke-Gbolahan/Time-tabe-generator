@@ -1,0 +1,34 @@
+D:\shap\TimeTableSolving\TimeTableSolving\bin\Debug\TimeTableSolving.exe.config
+D:\shap\TimeTableSolving\TimeTableSolving\bin\Debug\TimeTableSolving.exe
+D:\shap\TimeTableSolving\TimeTableSolving\bin\Debug\TimeTableSolving.pdb
+D:\shap\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmdashboard.resources
+D:\shap\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmfaculty.resources
+D:\shap\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmroom.resources
+D:\shap\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmtime.resources
+D:\shap\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.Properties.Resources.resources
+D:\shap\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.csproj.GenerateResource.Cache
+D:\shap\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.exe
+D:\shap\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.pdb
+D:\shap\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmtimetable.resources
+D:\shap\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmcourse.resources
+D:\shap\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmlogin.resources
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\bin\Debug\TimeTableSolving.exe.config
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.exe
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.pdb
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\bin\Debug\TimeTableSolving.exe
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\bin\Debug\TimeTableSolving.pdb
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.csprojResolveAssemblyReference.cache
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmcourse.resources
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmdashboard.resources
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmfaculty.resources
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmlogin.resources
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmroom.resources
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmtime.resources
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmtimetable.resources
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.Properties.Resources.resources
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.csproj.GenerateResource.Cache
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.frmdepartment.resources
+C:\Users\SamCrown\Desktop\TimeTableSolving\TimeTableSolving\bin\Debug\itextsharp.dll
+C:\Users\SamCrown\Documents\New folder\My Application\TimeTableSolving\TimeTableSolving\bin\Debug\TimeTableSolving.exe.config
+C:\Users\SamCrown\Documents\New folder\My Application\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.exe
+C:\Users\SamCrown\Documents\New folder\My Application\TimeTableSolving\TimeTableSolving\obj\Debug\TimeTableSolving.pdb
